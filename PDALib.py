@@ -16,6 +16,8 @@
 # see http://www.mikronauts.com/raspberry-pi/gpio-experiments/raspberry-pi-and-hc-sr04-distance-sensor-interfacing-with-c-and-python/
 # Apr.12/2016: v0.93 fixed spi open/close mismatches
 #
+# http://www.mikronauts.com
+# http://www.mikronauts.com/raspberry-pi/robopi/
 
 import time
 import spidev
